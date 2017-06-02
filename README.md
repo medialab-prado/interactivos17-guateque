@@ -341,6 +341,9 @@ http://www.eldocumentaldelmes.com/es/doc/shadow-girl-nina-sombra-2/
 + Steven Seagal (wanna@challenge.me)
 + Los Chunguitos
 # Instrucciones
+### Instrucciones de expo
+1. Máscaras para ponerse y jugar con ellas. 
+2. App de processing ( murcielago ) que arranca sola a las 10:00 y se cierra sola a las 20:45.
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
 + Cómo se ensambla todo
