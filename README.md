@@ -1,8 +1,12 @@
-# interactivos17-guateque
-https://guatequeincapaz.tumblr.com/
+# interactivos17-Guateque In-Capaz
++ [Link al blog](https://guatequeincapaz.tumblr.com/)
 
-# Guateque In-Capaz
-
+### Palabras Clave
+Diversidad funcional 
+Accesibilidad 
+Movilidad 
+Lúdico
+Infraestructura intervenida
 
 ### Idea
 
@@ -33,7 +37,7 @@ Con este proyecto esperamos generar un cambio permanente en la conciencia colect
 # Ciudad Guateque
  
 
-//IMG. CIUDAD GUATEQUE//
+
 
 Guateque in-Capaz propone un recorrido interactivo en el cual, mediante diferentes interferencias físicas y audiovisuales en el espacio, el visitante verá modificada su trayectoria de forma involuntaria, del mismo modo en que los recorridos urbanos “accesibles” derivan en serendipias infinitas, generando, en ocasiones, desviaciones de varios cientos de metros respecto al recorrido convencional. 
 Estas intervenciones, invasivas algunas, sutiles y estéticas otras, pero lúdicas todas ellas, conforman un espacio urbano imaginario que, de forma irónica, no se aleja tanto del Madrid real. 
@@ -45,43 +49,43 @@ Por último, Guateque in-Capaz propone un cambio de paradigma en la forma en la 
  
  //IMGAGEN//
 
-PLAZA DE LOS CUBOS
+## PLAZA DE LOS CUBOS
  
 Recorrido con obstáculos generado a partir de objetos pertenecientes al imaginario colectivo del espacio público (bancos, kioscos, escalones, bicis, monopatines...)
  
-OBJETIVO
+### OBJETIVO
 
 Generar conciencia sobre cómo el mobiliario urbano, los vehículos y otros objetos del espacio urbano condicionan los recorridos peatonales. Hacer especial hincapié en las complicaciones que una persona con diversidad funcional puede experimentar al recorrer estos espacios.
  
-MATERIALES
+### MATERIALES
  
 - Objetos encontrados (en el caso de Medialab han sido cojines, taburetes, pufs, mesitas y juegos infantiles).
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Distribuir diferentes objetos pertenecientes al imaginario colectivo del espacio público (bancos, kioscos, escalones, bicis, monopatines...) de forma aleatoria en el espacio.
  
 
   //IMGAGEN//
  
-CALLE PRECIADOS (en día de rebajas)
+## CALLE PRECIADOS (en día de rebajas)
  
 Instalación inmersiva para varias personas: espacio cerrado lleno en su totalidad de globos blancos o transparentes por el que el transeúnte deberá circular hasta encontrar la salida.
  
-OBJETIVO
+### OBJETIVO
 
 A través de la experiencia, inducir a la reflexión sobre el espacio físico y psíquico que ocupa la persona (como sujeto individual y como colectivo en movimiento) y cómo este espacio es modelado por las infraestructuras públicas/privadas. 
  
 Los globos permiten visualizar de forma directa el volumen que ocupa una persona en el espacio, siendo necesario desplazar un volumen equivalente al propio para poder avanzar. De este modo se evidencian los espacios comunes entre sujetos mediante fuerzas de atracción y repulsión entre los globos y los transeúntes. Los globos, además, limitan el campo de visión a la realidad más inmediata, haciendo del recorrido una incógnita. 
  
-MATERIALES
+### MATERIALES
  
 - Habitáculo o estructura cerrada, con entrada y salida diferenciadas para permitir el flujo unidireccional de personas (por ejemplo, un pasillo).
 - Globos blancos o transparentes (cantidad a determinar según el espacio).
 - Compresor. 
 - Proyector [opcional].
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Localizar un espacio como el definido arriba.*
 2- Preparar los accesos para permitir la entrada y salida de personas pero evitando la salida de globos. Una cortina de plástico o tela elástica dan buenos resultados. 
@@ -94,24 +98,24 @@ para averiguar cómo fabricar un entorno apropiado de manera sencilla.
  
  //IMGAGEN//
  
-GRAN VÍA
+## GRAN VÍA
  
 Instalación inflable en pasillo. 
 Mediante dos cuerpos inflables en contacto se genera un recorrido por el que solo se puede circular abriéndose paso entre estos objetos. 
 El paso estrecho solo permite la circulación de un a persona cada vez. 
  
-OBJETIVO
+### OBJETIVO
 
 La instalación fuerza un recorrido en solitario para la introspección y la reflexión sobre el movimiento y el espacio. 
  
-MATERIALES
+### MATERIALES
  
 - Pasillo angosto.
 - Polipropileno translúcido galga 150.
 - Planchas para el pelo.
 - Ventilador.
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Cortar la lámina de polipropileno en función del patrón deseado. En este caso aplica un cilindro de 6 metros de longitud.  
 2- Sellar los bordes abiertos del inflable con ayuda de las planchas para el pelo. Emplear un papel para evitar el contacto directo entre la plancha y el plástico.
@@ -124,22 +128,21 @@ INSTRUCCIONES
 
  //IMGAGEN//
  
-M-30
+## M-30
  
 Instalación con volúmenes inflables en un espacio tortuoso. 
  
-OBJETIVO
+### OBJETIVO
 
 Generar un recorrido con obstáculos que fuercen desviaciones sobre el recorrido programado, simulando lo que sería atravesar una calle principal a hora punta, una manifestación o un atasco. 
  
-  
-MATERIALES
+### MATERIALES
  
 - Polipropileno translúcido galga 150.
 - Planchas para el pelo.
 - Ventilador.
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Cortar las láminas de polipropileno en función de los patrones deseados: cubos, cilindros de altura variable, arcos...   
 2- Sellar los bordes abiertos del los inflable con ayuda de las planchas para el pelo. Emplear un papel para evitar el contacto directo entre la plancha y el plástico.
@@ -151,22 +154,21 @@ INSTRUCCIONES
  
  //IMGAGEN//
  
-CUATRO CAMINOS: ASCENSOR L6 
+## CUATRO CAMINOS: ASCENSOR L6 
  
 Interferencia total en un espacio de paso que bloquea la circulación y fuerza un recorrido alternativo. 
  
-OBJETIVO
+### OBJETIVO
 
 Poner al espectador en el papel de una persona con diversidad funcional o alguna dificultad motriz transitoria o permanente, que a menudo encuentra las rutas accesibles bloqueadas por falta de mantenimiento o por mal uso del resto de transeúntes. 
  
- 
-MATERIALES
+### MATERIALES
  
 - Polipropileno translúcido galga 150.
 - Planchas para el pelo.
 - Ventilador.
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Localizar un espacio de paso obligado (puerta, pasaje, ascensor, corredor...)
 3- Cortar el polipropileno generando un patrón que ocupe todo el espacio de paso. 
@@ -179,20 +181,20 @@ INSTRUCCIONES
 
  //IMGAGEN//
  
-PLAZA DE ESPAÑA
+## PLAZA DE ESPAÑA
  
 Instalación que permite visualizar las ondas sonoras de la música gracias a una red de hilos de nylon. 
  
-OBJETIVO
+### OBJETIVO
 
 Proponer formas alternativas de disfrutar de la música. Se sugiere taparse los oídos y disfrutar del paisaje sonoro, sin escuchar. 
  
-MATERIALES
+### MATERIALES
  
 - Altavoces.
 - Hilo de nylon fluorescente. 
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Localizar el acceso a unos servicios públicos diferenciados. Localización favorable: en un pasillo o caja.
 2- Mapear la zona.
@@ -203,20 +205,20 @@ INSTRUCCIONES
  //IMGAGEN//
 
  
-PLAZA DE CALLAO
+## PLAZA DE CALLAO
  
 Intervención audiovisual sobre la señalética de servicios diferenciados por género y funcionalidad. 
  
-OBJETIVO
+### OBJETIVO
 
 Mediante pequeñas intervenciones en el espacio, evidenciar cómo elementos tan sencillos como la señalética condicionan la circulación de las personas en lugares públicos, cuestionando los conceptos tradicionales de adecuación y decoro. 
  
-MATERIALES
+### MATERIALES
  
 - Servicios públicos diferenciados por género y funcionalidad.
 - 1 proyector.
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Localizar el acceso a unos servicios públicos diferenciados. Localización favorable: en un pasillo o caja.
 2- Mapear la zona.
@@ -229,15 +231,15 @@ INSTRUCCIONES
  //IMGAGEN//
 
  
-PLAZA DEL SOL
+## PLAZA DEL SOL
  
 Instalación audiovisual que representa los sonidos recibidos en directo como ondas sonoras, distorsionando la visión del espacio y permitiendo nuevas perspectivas sobre el mismo. Simula la visión de un murciélago, que a través de la emisión de sonidos pueden reconstruir los espacios por los que se mueven.
  
-OBJETIVO
+### OBJETIVO
 
 Generar una sinestesia visual-sonora que, de forma simbólica, represente un sentido de la audición alternativo. 
  
-MATERIALES
+### MATERIALES
  
 - Proyector o monitor.
 - Web cam o cámara movil.
@@ -247,13 +249,13 @@ MATERIALES
  
  //IMGAGEN//
 
-ESTADIO DEL BERNABEU
+## ESTADIO DEL BERNABEU
  
 Intervención lúdica que permite sentir diferentes trastornos de la vista de forma lúdica mientras se ejecutan distintos juegos clásicos de Guateque: Beer-pong, poner la cola al burro, piñatas, twister...
  
 Los visores podrán utilizarse en cualquier lugar del Guateque. 
  
-MATERIALES
+### MATERIALES
  
 - Visores generados a partir de plásticos refractantes, irisados o con diferentes efectos de distorsión (obtenidos de un monitor de ordenador reciclado).
 - Vasos de plástico.
@@ -261,7 +263,7 @@ MATERIALES
 - Pelotas de ping-pong.
 - Cerveza
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 Beer-pong para dos jugadores.
  
@@ -275,16 +277,16 @@ Beer-pong para dos jugadores.
  
  //IMGAGEN//
  
-KARAOKE RAPHAEL
+## KARAOKE RAPHAEL
  
 Instalación interactiva: Karaoke con interferencias. 
 Una aplicación que genera un retraso de milisegundos en la retransmisión de la  voz dificulta el ejercicio.
  
-OBJETIVO
+### OBJETIVO
 
 Poner al espectador en el papel de una persona con discapacidad auditiva o del habla.
  
-MATERIALES
+### MATERIALES
  
 - Proyector o monitor.
 - Ordenador.
@@ -293,7 +295,7 @@ MATERIALES
 - Smartphone.
 - Aplicación Speech Jammer.
  
-INSTRUCCIONES
+### INSTRUCCIONES
  
 1- Instalar la aplicación Speech Jammer en smartphone.
 2- Conectar auriculares y colocar en los oídos del participante.
@@ -307,28 +309,7 @@ INSTRUCCIONES
 
 
  
-GUÍAS PARA TRATAR PERSONAS CON DIVERSIDAD FUNCIONAL:
-http://www.labroma.org/blog/wp-content/uploads/2016/03/Yo-como-t%C3%BA-FEAPS-Madrid.pdf  (Plena Inclusión Madrid)
-http://prevencionar.com/2016/02/25/guia-para-tratar-a-personas-con-discapacidad/ (Unión de Mútuas)
-http://sapdu.unizar.es/sites/default/files/USAL_Guia_2011.pdf (Universidad de Salamanca)
 
-Personas Que. 
-https://www.personasque.es/salud
-
-
-
-Be another Lab
-http://beanotherlab.org
-https://vimeo.com/84150219
- 
-
-Notes on redirected walking
-https://www.theverge.com/circuitbreaker/2016/8/1/12344702/siggraph-virtual-reality-redirected-walking-unlimited-corridor
- 
- 
-Material audiovisual: 
-http://www.notesonblindness.co.uk
-http://www.eldocumentaldelmes.com/es/doc/shadow-girl-nina-sombra-2/ 
 
 
 
@@ -355,22 +336,36 @@ http://www.eldocumentaldelmes.com/es/doc/shadow-girl-nina-sombra-2/
 + ¿Tiene batería? ¿Cómo cargarla? ¿Cada cuanto?
 + ¿Utiliza materiales desechables? ¿tintas? ¿papel?
 + Si deja de funcionar cuál sería la lista de errores más corrientes: de los más comunes a los más raros. ¿Cómo arreglar cada uno?
+
 # Recursos: 
+
 ### Repositorios del proyecto:
 + [Link a las fotos](http://www.flickrPorEjemplo.com)
 + [Link a las videos](http://www.lasalsaeslomas.com)
-+ [Link a los planos](http://www.atopedecarto.com)
-+ [Link al blog](http://www.mibloglopeta.com)
++ [Link a los planos]()
++ [Link al blog](https://guatequeincapaz.tumblr.com/)
+
 ### Bibliografía, otros repositorios y links: 
-+ http://openframeworks.cc/
-+ https://libcinder.org/
++ GUÍAS PARA TRATAR PERSONAS CON DIVERSIDAD FUNCIONAL:
+http://www.labroma.org/blog/wp-content/uploads/2016/03/Yo-como-t%C3%BA-FEAPS-Madrid.pdf  (Plena Inclusión Madrid)
+http://prevencionar.com/2016/02/25/guia-para-tratar-a-personas-con-discapacidad/ (Unión de Mútuas)
+http://sapdu.unizar.es/sites/default/files/USAL_Guia_2011.pdf (Universidad de Salamanca)
+
++ Personas Que. 
+https://www.personasque.es/salud
+
++ Be another Lab
+http://beanotherlab.org
+https://vimeo.com/84150219
+ 
++ Notes on redirected walking
+https://www.theverge.com/circuitbreaker/2016/8/1/12344702/siggraph-virtual-reality-redirected-walking-unlimited-corridor
+ 
+ + Material audiovisual: 
+http://www.notesonblindness.co.uk
+http://www.eldocumentaldelmes.com/es/doc/shadow-girl-nina-sombra-2/ 
+
 # Diario del proceso
-### Semana 1
-Vermut de grifo 
-### Semana 2
-Bocata de calamares con pacharán de Zarautz
-### Semana 3
-Rave de compilación
-![nombre imagen]media1.giphy.com/media/cyyac9sTiN7ji/giphy.gif)](https://
+
 
 
