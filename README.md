@@ -36,7 +36,7 @@ Con este proyecto esperamos generar un cambio permanente en la conciencia colect
 
 # Ciudad Guateque
  
-
+(https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20mapa-01.png)
 
 
 Guateque in-Capaz propone un recorrido interactivo en el cual, mediante diferentes interferencias físicas y audiovisuales en el espacio, el visitante verá modificada su trayectoria de forma involuntaria, del mismo modo en que los recorridos urbanos “accesibles” derivan en serendipias infinitas, generando, en ocasiones, desviaciones de varios cientos de metros respecto al recorrido convencional. 
