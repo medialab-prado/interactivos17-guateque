@@ -2,11 +2,11 @@
 + [Link al blog](https://guatequeincapaz.tumblr.com/)
 
 ### Palabras Clave
-Diversidad funcional 
-Accesibilidad 
-Movilidad 
-Lúdico
-Infraestructura intervenida
+diversidad funcional, 
+accesibilidad, 
+movilidad,
+gamificación,
+infraestructura intervenida.
 
 ### Idea
 
