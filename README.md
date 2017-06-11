@@ -314,13 +314,69 @@ Poner al espectador en el papel de una persona con discapacidad auditiva o del h
 
 
 # Promotores y colaboradores: 
-### Promotoras: 
-+ Pepa Pig (pepa@pig.com)
-+ Nikola Tesla (www.atopedealterna.com)
-### Colaboradores
-+ Michael Knight 
-+ Steven Seagal (wanna@challenge.me)
-+ Los Chunguitos
+## Promotoras
+
+### Natasha Trujillo
+Caracas - Madrid. Diseñadora Gráfica. 
+@tashatrujillo
++ [Link](https://www.behance.net/TashaTrujillo)
+ 
+### Elisa Cuesta
+Asturias - Madrid. Diseñadora industrial y artista. 
+@ecuestaf
++ [Link](https://www.behance.net/elisacuesta)
+
+
+## Colaboradores
+
+### Hugo Zapatero 
+Mataelpino, Madrid. Visual Designer.
++ [Link](https://www.behance.net/Hugozes)
+
+### Junior Paladines
+Cali, Colombia. Ingeniero multimedia.
++ [Link](https://www.maishapp.com)
+
+### Saulo González
+Cali, Colombia. Ingeniero multimedia.
++ [Link](https://www.maishapp.com)
+
+### Irene Almazán
+Madrid-Toledo. Arquitecta.
+@almazinga
+
+### Jonathan Ros
+Buenos Aires, Argentina. Realizador audiovisual. 
+@jonoros
++ [Link](https://www.jonoros.com)
+
+### Amaya Pou
+Barcelona. Psicóloga y formadora socio ambiental.
++ [Link](https://www.linkedin.com/in/amayap)
+
+# Agradecimientos
+
+Christian Nold.
+Karolina Sobecka. 
++ [Link](http://www.gravitytrap.com) 
+Carles Gutierrez.
++ [Link](http://www.softhook.com)
+David Atauri.
+Chema Blanco.
+Daniel Pietrosemoli.
+Marianna Papapietro.
+Carmen Haro.
+María Limón.
+Sálvora Feliz, Conjuntos empáticos.
++ [Link](http://info295622.wixsite.com/conjuntosempaticos)
+Marte Roel, Be another Lab.
++ [Link](http://www.themachinetobeanother.org/?page_id=820)
+Javier de la Cruz.
+Luis Javier Ureña.
+Lucía Ureña.
+
+
+
 # Instrucciones
 ### Instrucciones de expo
 1. Máscaras para ponerse y jugar con ellas. 
