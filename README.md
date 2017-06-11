@@ -1,4 +1,4 @@
-# interactivos17-Guateque In-Capaz
+# interactivos17-Guateque in-Capaz
 + [Link al blog](https://guatequeincapaz.tumblr.com/)
 
 ### Palabras Clave
@@ -356,24 +356,20 @@ Barcelona. Psicóloga y formadora socio ambiental.
 
 # Agradecimientos
 
-Christian Nold.
-Karolina Sobecka. 
-+ [Link](http://www.gravitytrap.com) 
-Carles Gutierrez.
-+ [Link](http://www.softhook.com)
-David Atauri.
-Chema Blanco.
-Daniel Pietrosemoli.
-Marianna Papapietro.
-Carmen Haro.
-María Limón.
-Sálvora Feliz, Conjuntos empáticos.
-+ [Link](http://info295622.wixsite.com/conjuntosempaticos)
-Marte Roel, Be another Lab.
-+ [Link](http://www.themachinetobeanother.org/?page_id=820)
-Javier de la Cruz.
-Luis Javier Ureña.
-Lucía Ureña.
++ Christian Nold.
++ Karolina Sobecka.  [Link](http://www.gravitytrap.com) 
++ Carles Gutierrez.  [Link](http://www.softhook.com)
++ David Atauri.
++ Chema Blanco.
++ Daniel Pietrosemoli.
++ Marianna Papapietro.
++ Carmen Haro.
++ María Limón.
++ Sálvora Feliz, Conjuntos empáticos.  [Link](http://info295622.wixsite.com/conjuntosempaticos)
++ Marte Roel, Be another Lab. [Link](http://www.themachinetobeanother.org/?page_id=820)
++ Javier de la Cruz.
++ Luis Javier Ureña.
++ Lucía Ureña.
 
 
 
@@ -396,10 +392,10 @@ Lucía Ureña.
 # Recursos: 
 
 ### Repositorios del proyecto:
-+ [Link a las fotos](http://www.flickrPorEjemplo.com)
-+ [Link a las videos](http://www.lasalsaeslomas.com)
-+ [Link a los planos]()
 + [Link al blog](https://guatequeincapaz.tumblr.com/)
++ [Link a las videos](https://vimeo.com/guatequeincapaz)
+
+
 
 ### Bibliografía, otros repositorios y links: 
 + GUÍAS PARA TRATAR PERSONAS CON DIVERSIDAD FUNCIONAL:
