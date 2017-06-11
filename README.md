@@ -21,7 +21,8 @@ El dilema es crónico y la solución se esconde a la vista. Quizá sea un proble
 Sin embargo la empatía es esquiva y compleja y, por desgracia, no viene con un manual de instrucciones... Se dice que el primer paso es ponerse en la piel del otro. Por otra parte, la experiencia directa ha demostrado ser una muy buena forma de tomar conciencia sobre cualquier tema. Y, por último, todos sabemos que con diversión se aprende mejor. Entonces, en lugar de prolongar el debate sin fin, ¿por qué no darle la vuelta a la palabra “discapacidad”, agitarla y desguazarla, hacerla bailar hasta que pierda todo su significado?. ¿Discapacitado? ¿minusválido? ¿inválido? ¿¡incapaz!?.
 
 Desde un enfoque lúdico convertiremos los impedimentos en diversidad (y en diversión), generaremos conciencia ciudadana para que todos podamos disfrutar de las instalaciones de la ciudad.
-// IMG. FOTO BONITA //
+
+<img src="" />
 
 ### Implementación
 
@@ -46,10 +47,10 @@ De este modo se pretende generar conciencia sobre cómo las infraestructuras urb
  
 Por último, Guateque in-Capaz propone un cambio de paradigma en la forma en la que percibimos las diversidades funcionales, no como impedimentos sino como formas alternativas de percibir la ciudad. 
 
- 
- //IMGAGEN//
 
 ## PLAZA DE LOS CUBOS
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones-GUATEQUE-cubos.gif" />
  
 Recorrido con obstáculos generado a partir de objetos pertenecientes al imaginario colectivo del espacio público (bancos, kioscos, escalones, bicis, monopatines...)
  
@@ -65,10 +66,10 @@ Generar conciencia sobre cómo el mobiliario urbano, los vehículos y otros obje
  
 1- Distribuir diferentes objetos pertenecientes al imaginario colectivo del espacio público (bancos, kioscos, escalones, bicis, monopatines...) de forma aleatoria en el espacio.
  
-
-  //IMGAGEN//
  
 ## CALLE PRECIADOS (en día de rebajas)
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20calle%20preciados-02.png" />
  
 Instalación inmersiva para varias personas: espacio cerrado lleno en su totalidad de globos blancos o transparentes por el que el transeúnte deberá circular hasta encontrar la salida.
  
@@ -96,9 +97,9 @@ Los globos permiten visualizar de forma directa el volumen que ocupa una persona
 para averiguar cómo fabricar un entorno apropiado de manera sencilla. 
 
  
- //IMGAGEN//
- 
 ## GRAN VÍA
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20calle%20gran%20via-01.png" />
  
 Instalación inflable en pasillo. 
 Mediante dos cuerpos inflables en contacto se genera un recorrido por el que solo se puede circular abriéndose paso entre estos objetos. 
@@ -125,10 +126,10 @@ La instalación fuerza un recorrido en solitario para la introspección y la ref
 6- Sellar las abertura siguiendo el método detallado en el punto 2. 
 7- Fijar a la pared. 
  
-
- //IMGAGEN//
  
 ## M-30
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20m30-02.png" />
  
 Instalación con volúmenes inflables en un espacio tortuoso. 
  
@@ -152,9 +153,9 @@ Generar un recorrido con obstáculos que fuercen desviaciones sobre el recorrido
 6- Colocar en el espacio generando interferencias con el recorrido programado. 
 
  
- //IMGAGEN//
- 
 ## CUATRO CAMINOS: ASCENSOR L6 
+ 
+ <img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20metro-02.png" />
  
 Interferencia total en un espacio de paso que bloquea la circulación y fuerza un recorrido alternativo. 
  
@@ -178,10 +179,10 @@ Poner al espectador en el papel de una persona con diversidad funcional o alguna
 5- Sellar las apertura siguiendo el método detallado en el punto 2. 
 6- Colocar en el espacio, bloqueando el paso. 
  
-
- //IMGAGEN//
  
 ## PLAZA DE ESPAÑA
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20plaza%20de%20españa-02.png" />
  
 Instalación que permite visualizar las ondas sonoras de la música gracias a una red de hilos de nylon. 
  
@@ -200,12 +201,11 @@ Proponer formas alternativas de disfrutar de la música. Se sugiere taparse los 
 2- Mapear la zona.
 3- Ocultar la señalética original (retirar si es posible, si no lo fuera, cubrir con una superficie opaca).
 4- Intervenir iconos a placer*.
- 
- 
- //IMGAGEN//
 
  
 ## PLAZA DE CALLAO
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20plaza%20callao-02.png" />
  
 Intervención audiovisual sobre la señalética de servicios diferenciados por género y funcionalidad. 
  
@@ -227,11 +227,10 @@ Mediante pequeñas intervenciones en el espacio, evidenciar cómo elementos tan 
  
 * Consultar la revista Hipo-Tesis para mayor inspiración: www.hipo-tesis.eu/
  
-
- //IMGAGEN//
-
  
 ## PLAZA DEL SOL
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20plaza%20del%20sol-02.png" />
  
 Instalación audiovisual que representa los sonidos recibidos en directo como ondas sonoras, distorsionando la visión del espacio y permitiendo nuevas perspectivas sobre el mismo. Simula la visión de un murciélago, que a través de la emisión de sonidos pueden reconstruir los espacios por los que se mueven.
  
@@ -246,10 +245,10 @@ Generar una sinestesia visual-sonora que, de forma simbólica, represente un sen
 - Micrófono.
 - Software: processing. 
 
- 
- //IMGAGEN//
 
 ## ESTADIO DEL BERNABEU
+
+<img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones-GUATEQUE-beer-pong-02.gif" />
  
 Intervención lúdica que permite sentir diferentes trastornos de la vista de forma lúdica mientras se ejecutan distintos juegos clásicos de Guateque: Beer-pong, poner la cola al burro, piñatas, twister...
  
@@ -273,11 +272,10 @@ Beer-pong para dos jugadores.
 4- Se retirarán del tablero los vasos vacíos. 
 4- El ganador será el jugador que primero consiga encestar en todos los vasos del contrario. 
 
-
- 
- //IMGAGEN//
  
 ## KARAOKE RAPHAEL
+ 
+ <img src="https://github.com/medialab-prado/interactivos17-guateque/blob/master/designs/images/Ilsutraciones%20GUATEQUE%20karaoke-02.png" />
  
 Instalación interactiva: Karaoke con interferencias. 
 Una aplicación que genera un retraso de milisegundos en la retransmisión de la  voz dificulta el ejercicio.
