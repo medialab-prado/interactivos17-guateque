@@ -1,5 +1,18 @@
+## Table of contents
+1- Palabras Clave
+2- Idea
+4- Ciudad Guateque 
+5- Promotores y colaboradores
+6- Instrucciones (en proceso)
+7- Repositorios
+
+
+______________________________________
+
+
 # interactivos17-Guateque in-Capaz
 + [Link al blog de Guateque in-Capaz](https://guatequeincapaz.tumblr.com/)
++ [Link a los videos](https://vimeo.com/guatequeincapaz)
 
 ### Palabras Clave
 diversidad funcional, 
